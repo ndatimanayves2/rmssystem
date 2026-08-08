@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="medGrad" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#0D9488"/>
+    </linearGradient>
+  </defs>
+  <path d="M32 2 L58 13 V40 C58 51 47 60 32 62 C17 60 6 51 6 40 V13 Z" fill="url(#medGrad)"/>
+  <rect x="27" y="15" width="10" height="34" rx="4.5" fill="#FFFFFF"/>
+  <rect x="15" y="27" width="34" height="10" rx="4.5" fill="#FFFFFF"/>
+  <g transform="rotate(45 46 17)">
+    <rect x="42" y="11" width="9" height="13" rx="4.5" fill="#FCD34D"/>
+    <rect x="42" y="11" width="4.5" height="13" rx="2.25" fill="#F59E0B"/>
+  </g>
+</svg>
